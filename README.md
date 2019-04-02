@@ -1,6 +1,7 @@
 # fashion-image-classifier
 CNN trained to classify images from the MNIST Fashion dataset
 
+## Sample of model predictions
 ![image](predictions.png)
 
 ## Colab Link
